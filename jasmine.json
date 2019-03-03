@@ -1,27 +1,26 @@
 {
-   "donate_url":"http://bit.ly/jhenrique09_paypal",
-   "website_url":"https://t.me/devilbuildmido",
-   "news_url":"https://t.me/dfupdates",
-   "addons":[
-      {
-         "title":"Magisk",
-         "summary":"Magisk",
-         "url":"https://github.com/topjohnwu/Magisk/releases/download/v18.0/Magisk-v18.0.zip"
-      },
-      {
-         "title":"Magisk",
-         "summary":"Magisk Uninstaller",
-         "url":"https://github.com/topjohnwu/Magisk/releases/download/v18.0/Magisk-uninstaller-20181208.zip"
-      }
-   ],
-   "developer":"coderzstas",
-   "developer_url":"",
-   "forum_url":"",
-   "filename":"123.zip",
-   "build_date":"20190203-2310",
-   "filesize":932052277,
-   "md5":"ce2ba6ae9a30f1cae1f4fa9c97e97e2d",
-   "url":"https://google.ru/123.zip",
-   "changelog":"* first build",
-   "error":false
+  "forum_url": "https://google.ru",
+  "build_date": "20190303",
+  "changelog": "TEST",
+  "url": "https://google.ru/123.zip",
+  "error": "false",
+  "filename": "test.zip",
+  "filesize": "688031162",
+  "md5": "465638f34bd3526a517a0447d980f4bd",
+  "donate_url": "https://google.ru",
+  "addons": [
+    {
+      "url": "https://github.com/topjohnwu/Magisk/releases/download/v18.0/Magisk-v18.0.zip", 
+      "summary": "Magisk",
+      "title": "Magisk"
+    },
+    {
+      "url": "https://github.com/topjohnwu/Magisk/releases/download/v18.0/Magisk-uninstaller-20181208.zip", 
+      "summary": "Magisk Uninstaller",
+      "title": "Magisk"
+    }
+  ],
+  "developer_url": "https://google.ru",
+  "website_url": "https://google.ru", 
+  "developer": "coderzstas-test"
 }

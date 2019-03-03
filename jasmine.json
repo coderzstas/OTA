@@ -22,6 +22,6 @@
    "filesize":932052277,
    "md5":"ce2ba6ae9a30f1cae1f4fa9c97e97e2d",
    "url":"https://google.ru/123.zip",
-   "changelog":"* Merged PE Upstreams\n* Updated Kernel To Latest\n* Updated Ramdisk To P\n* Updated Bluetooth Blobs To P\n* Updated DRM TUI Blobs To P\n* Updated Perf and Peripheral Manager To P\n* Updated QMI Blobs To P\n* Updated Radio,IMS and Modem blobs To P\n* Updated Health 2.0\n* Updated Sensor Thermal And Time Blobs To P\n* Updated Power Off Alarm blobs to P\n* Updated All Properties To P\n* Updated Build Configuration To Tissot To Pass Safety Check\n* Updated various Blobs To P\n* Selinux Enforcing Enabled But Still Its On Permissive due to some issues\n* Fixed Wireless Hotspot\n\n* Roms Side Changes:\n* * Removed VOLTE Icon, NEW IMS Ships With HD Icon No More Need of VOLTE icon For now\n* * Usb tethering isnt working will be soon asap",
+   "changelog":"* first build",
    "error":false
 }
